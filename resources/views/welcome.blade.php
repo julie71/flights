@@ -84,8 +84,8 @@
 
                 <div class="links">
                     <a target="_blank" href="http://beirutairport.gov.lb">Beirut Airport</a>
-                    <a target="_blank" href="https://general-security.gov.lb">gdgs</a>
-                </div>
+                    <a target="_blank" href="http://general-security.gov.lb/ar">gdgs</a>
+                    <a target="_blank" href="https://github.com/julie71/flights">Github</a>
             </div>
         </div>
     </body>
