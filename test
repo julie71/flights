@@ -1,0 +1,306 @@
+Symfony\Component\DomCrawler\Crawler {#644
+  #uri: null
+  -defaultNamespacePrefix: "default"
+  -namespaces: []
+  -baseHref: null
+  -document: DOMDocument {#685
+    +nodeName: "#document"
+    +nodeValue: null
+    +nodeType: XML_HTML_DOCUMENT_NODE
+    +parentNode: null
+    +childNodes: DOMNodeList {#683
+      +length: 2
+    }
+    +firstChild: DOMDocumentType {#674 …}
+    +lastChild: DOMElement {#588 …}
+    +previousSibling: null
+    +nextSibling: null
+    +attributes: null
+    +ownerDocument: null
+    +namespaceURI: null
+    +prefix: ""
+    +localName: null
+    +baseURI: null
+    +textContent: ""
+    +doctype: DOMDocumentType {#674 …}
+    +implementation: DOMImplementation {#678
+      Core: "1.0"
+      XML: "2.0"
+    }
+    +documentElement: DOMElement {#588 …}
+    +actualEncoding: "UTF-8"
+    +encoding: "UTF-8"
+    +xmlEncoding: "UTF-8"
+    +standalone: true
+    +xmlStandalone: true
+    +version: null
+    +xmlVersion: null
+    +strictErrorChecking: true
+    +documentURI: null
+    +config: null
+    +formatOutput: false
+    +validateOnParse: true
+    +resolveExternals: false
+    +preserveWhiteSpace: true
+    +recover: false
+    +substituteEntities: false
+    xml: """
+      <?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n
+      <!DOCTYPE html>\n
+      <html lang="en-US">\n
+        <head>\n
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>\n
+          <title>Kuwait International Airport Live Arrivals | Airport</title>\n
+          <meta name="description" content="Live flight Arrivals, flight status information for Kuwait International Airport (KWI)."/>\n
+          <link rel="canonical" href="https://airport-departures-arrivals.com/kuwait-airport/kuwait-international-airport-live-arrivals/"/>\n
+          <link rel="dns-prefetch" href="//s.w.org"/>\n
+          <link rel="alternate" type="application/rss+xml" title="Airport » Kuwait International Airport Live Arrivals Comments Feed" href="https://airport-departures-arrivals.com/kuwait-airport/kuwait-international-airport-live-arrivals/feed/"/>\n
+          <meta property="og:image" content="https://airport-departures-arrivals.com/4.png"/>\n
+          <meta property="og:title" content="Kuwait International Airport Live Arrivals"/>\n
+          <meta property="og:type" content="article"/>\n
+          <meta name="twitter:card" content="summary_large_image"/>\n
+          <meta name="twitter:title" content="Kuwait International Airport Live Arrivals"/>\n
+          <meta name="twitter:description" content="Kuwait International Airport Live Arrivals"/>\n
+          <meta name="twitter:image" content="https://airport-departures-arrivals.com/4.png"/>\n
+          <link type="image/x-icon" rel="icon" href="https://airport-departures-arrivals.com/favicon.ico"/>\n
+          <link type="image/x-icon" rel="shortcut icon" href="https://airport-departures-arrivals.com/favicon.ico"/>\n
+          <link rel="icon" sizes="192x192" href="https://airport-departures-arrivals.com/touch-icon-192x192.png"/>\n
+          <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://airport-departures-arrivals.com/apple-touch-icon-180x180-precomposed.png"/>\n
+          <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://airport-departures-arrivals.com/apple-touch-icon-152x152-precomposed.png"/>\n
+          <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://airport-departures-arrivals.com/apple-touch-icon-144x144-precomposed.png"/>\n
+          <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://airport-departures-arrivals.com/apple-touch-icon-120x120-precomposed.png"/>\n
+          <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://airport-departures-arrivals.com/apple-touch-icon-114x114-precomposed.png"/>\n
+          <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://airport-departures-arrivals.com/apple-touch-icon-76x76-precomposed.png"/>\n
+          <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://airport-departures-arrivals.com/apple-touch-icon-72x72-precomposed.png"/>\n
+          <link rel="apple-touch-icon-precomposed" href="https://airport-departures-arrivals.com/apple-touch-icon-precomposed.png"/>\n
+        </head>\n
+        <body>\n
+      <style type="text/css"><![CDATA[\r\n
+      body{margin:0;background:#3a70b6;}\r\n
+      h1{font-size:12px;}\r\n
+      h2{font-size:11px;}\r\n
+      h3{font-size:10px;}\r\n
+      img{border:0;}\r\n
+      .clear{clear:both;height:0;overflow:hidden;}\r\n
+      table{border-collapse:collapse;}\r\n
+      tr:hover{background-color:#3a70b6;}\r\n
+      #page{margin:0 auto;width:1010px;height:184px;background:url("/wp-content/themes/airplane_theme/images/background.png");border:1px solid #173980;}\r\n
+      #header{width:1010px;height:187px;position:relative;}\r\n
+      #header #header-info{position:absolute;left:10px;}\r\n
+      #header #header-info h1{color:#c8d3e4;font:normal 15px Verdana;}\r\n
+      #header #header-info h1 a{color:#c8d3e4;text-decoration:none;}\r\n
+      #header #header-info .description{color:#c8d3e4;font:normal 14px Verdana;}\r\n
+      #header #header-rek{position:absolute;top:94px;left:0px;}\r\n
+      #header #bread{position:absolute;top:65px;left:10px;}\r\n
+      #main{width:1010px;}\r\n
+      #content{float:left;width:706px;}\r\n
+      #content .post{float:left;margin-bottom:10px;width:698px;padding:3px;background:url("/wp-content/themes/airplane_theme/images/background.png");border:1px solid #173980;}\r\n
+      #content .post .post-title{width:630px;padding-right:60px;height:40px;background:url("/wp-content/themes/airplane_theme/images/post_title.png") no-repeat right top;color:#c8d3e4;font:normal 11px Verdana;}\r\n
+      #content .post .post-title a{color:#c8d3e4;text-decoration:none;}\r\n
+      #content .post .post-title a:hover{color:#0000ff;text-decoration:underline;}\r\n
+      #content .post .post-title .post-date{float:left;background:#173980;color:#c8d3e4;text-align:center;text-transform:lowercase;height:45px;margin-right:10px;width:50px;font:bold 13px Verdana;border:1px solid #3a70b6;}\r\n
+      #content .post .post-title .post-date span{margin:3px 0 1px 0;display:block;font-size:17px;}\r\n
+      #content .post .post-title h2{padding-bottom:3px;color:#c8d3e4;font:normal 11px Verdana;}\r\n
+      #content .post .post-title h2 a{color:#98c3fb;text-decoration:none;}\r\n
+      #content .post .post-title h2 a:hover{text-decoration:underline;}\r\n
+      #content .post .post-entry{font:normal 11px/18px Verdana;color:#ffffff;padding:0 0px;width:698px;text-align:justify;}\r\n
+      #content .post .post-entry a{color:#4e97f4;text-decoration:none;}\r\n
+      #content .post .post-entry a:hover{color:#ff0000;text-decoration:none;}\r\n
+      #content .post .post-entry .picture{margin:0 10px 10px 0;float:left;}\r\n
+      #content .post .post-entry .more-link{font:bold 10px/20px Arial, Verdana;color:#4e97f4;float:right;margin-bottom:3px;}\r\n
+      #content .post .post-entry .more-link a{color:#4e97f4;text-decoration:none;}\r\n
+      #content .post .post-entry .more-link a:hover{text-decoration:underline;}\r\n
+      #content .post .post-info{padding:5px 5px 0 5px;width:590px;clear:both;font:bold 12px Arial, Verdana;color:#c8d3e4;}\r\n
+      #content .post .post-info a{color:#c8d3e4;text-decoration:none;}\r\n
+      #content .post .post-info a:hover{text-decoration:underline;}\r\n
+      #content .post h3{color:#c8d3e4;font:normal 17px Arial, Verdana, sans-serif;margin:20px 5px 10px 5px;}\r\n
+      #content .navigation{font:bold 11px/25px Verdana;color:#ffffff;float:left;margin-bottom:30px;width:695px;}\r\n
+      #content .navigation a{width:150px;background:url("/wp-content/themes/airplane_theme/images/background.png");border:1px solid #173980;text-align:center;display:block;color:#ffffff;text-decoration:none;}\r\n
+      #content .navigation a:hover{text-decoration:underline;}\r\n
+      #content .navigation .navigation-previous{float:left;}\r\n
+      #content .navigation .navigation-next{float:right;}\r\n
+      #sidebar{float:right;width:302px;font:normal 11px/18px Verdana;color:#ffffff;margin-bottom:1px;}\r\n
+      #sidebar a{color:#4e97f4;text-decoration:none;}\r\n
+      #sidebar a:hover{text-decoration:underline;}\r\n
+      #sidebar #sidebar-right{float:right;width:302px;}\r\n
+      #sidebar .sidebar-box{background:url("/wp-content/themes/airplane_theme/images/background.png");border:1px solid #173980;margin-bottom:5px;}\r\n
+      #sidebar h3{padding-left:29px;font:bold 11px/16px Verdana;color:#c8d3e4;background:#173980 url("/wp-content/themes/airplane_theme/images/sidebar_title.png") no-repeat 5px center;border-bottom:1px solid #173980;}\r\n
+      #sidebar ul{margin:0;padding:0;list-style-type:none;}\r\n
+      #sidebar ul li{color:#c8d3e4;padding-left:5px;font:bold 11px/16px Verdana;border-top:1px solid #4e97f4;}\r\n
+      #sidebar ul li a{color:#c8d3e4;text-decoration:none;}\r\n
+      #sidebar ul li a:hover{text-decoration:underline;}\r\n
+      #sidebar ul li ul{display:none;}\r\n
+      #sidebar #searchform{margin:0 auto;padding:5px 0;width:270px;text-align:center;}\r\n
+      #sidebar #searchform #s{width:270px;}\r\n
+      #sidebar .textwidget{padding:1px;}\r\n
+      #footer{width:680px;height:35px;color:#ffffff;font:normal 11px/35px Verdana;margin:0 10px 0px 10px;clear:both;}\r\n
+      #footer a{color:#4e97f4;text-decoration:none;}\r\n
+      #footer a:hover{text-decoration:underline;}\r\n
+      #banners a img{opacity:0.03;}\r\n
+      #banners a:hover img{opacity:1.0;}\r\n
+      .breadcrumbs{color:#ffffff;font:normal 12px Verdana, Arial;padding-bottom:10px;}\r\n
+      .breadcrumbs a{text-decoration:none;color:#ffffff;}\r\n
+      .breadcrumbs a:hover{color:#ff0000;}\r\n
+      ]]></style><div id="page">\n
+      \n
+      <div id="header">\n
+      \n
+      <div id="header-info">\n
+      <h1><a title="Airport" href="https://airport-departures-arrivals.com/">Airport</a></h1>\n
+      <div class="description">Live Arrivals &amp; Departures</div>\n
+      </div>\n
+      <div id="bread">\n
+      <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">\n
+      \n
+      <a rel="v:url" property="v:title" title="Airport" href="https://airport-departures-arrivals.com" class="home">Airport</a> → <a rel="v:url" property="v:title" title="Kuwait Airports Arrivals and Departures" href="https://airport-departures-arrivals.com/kuwait-airport/" class="post post-page">Kuwait Airports Arrivals and Departures</a> → <span typeof="v:Breadcrumb"><span property="v:title">Kuwait International Airport Live Arrivals</span></span></div>\n
+      </div>\n
+      <div id="header-rek">\n
+      <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"/><ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px" data-ad-client="ca-pub-1244129894357560" data-ad-slot="6972981521"/>\n
+      <script><![CDATA[\r\n
+      (adsbygoogle = window.adsbygoogle || []).push({});\r\n
+      ]]></script></div>\n
+      \n
+      </div>\n
+      \n
+      \n
+      <div id="main">\n
+      <div id="content">\n
+      \n
+      <div class="post" id="post-1377">\n
+      <div class="post-title">\n
+      <h1>Kuwait International Airport Live Arrivals</h1>\n
+      </div>\n
+      <div class="post-entry">\n
+      <div align="center">\n
+      <h1>Kuwait International Airport Live Arrivals</h1>\n
+      <h2><a href="https://airport-departures-arrivals.com/kuwait-airport/kuwait-international-airport-live-departures/" title="Kuwait International Airport Live Departures">Departures</a></h2>\n
+      </div>\n
+      <p><iframe src="https://www.flightstats.com/go/weblet?guid=34b64945a69b9cac:46cf2cff:137a5643c65:-5b5f&amp;imageColor=Grey&amp;language=English&amp;weblet=status&amp;action=AirportFlightStatus&amp;airportCode=KWI&amp;airportQueryType=1" frameborder="0" scrolling="auto" width="100%" height="600"/><br/>\n
+      Live flight Arrivals, flight status information for Kuwait International Airport (KWI).</p>\n
+      <div style="padding:3px"/>\n
+      <div align="center">\n
+      <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"/><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-1244129894357560" data-ad-slot="9926447925"/>\n
+      <script><![CDATA[\r\n
+      (adsbygoogle = window.adsbygoogle || []).push({});\r\n
+      ]]></script></div>\n
+      </div>\n
+      </div>\n
+      \n
+      <div class="clear"/>\n
+      </div>\n
+      \n
+      \n
+      <div id="sidebar">\n
+      <div id="sidebar-left">\n
+      <div class="sidebar-box"> <div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"/><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-1244129894357560" data-ad-slot="3879914322"/>\n
+      <script><![CDATA[\r\n
+      (adsbygoogle = window.adsbygoogle || []).push({});\r\n
+      ]]></script></div>\n
+      </div><div class="sidebar-box"><form role="search" method="get" id="searchform" class="searchform" action="https://airport-departures-arrivals.com/">\n
+      <div>\n
+      <label class="screen-reader-text" for="s">Search for:</label>\n
+      <input type="text" value="" name="s" id="s"/><input type="submit" id="searchsubmit" value="Search"/></div>\n
+      </form></div><div class="sidebar-box"><div class="menu-airport-container"><ul id="menu-airport" class="menu"><li id="menu-item-1530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1530"><a title="Australia Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/australia-airport/">Australia Airports</a></li>\n
+      <li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a title="Austria Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/austria-airport/">Austria Airports</a></li>\n
+      <li id="menu-item-2977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2977"><a title="Belgium Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/belgium-airport/">Belgium Airports</a></li>\n
+      <li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-870"><a title="Canada Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/canada-airport/">Canada Airports</a></li>\n
+      <li id="menu-item-1120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1120"><a title="China Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/china-airport/">China Airports</a></li>\n
+      <li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a title="France Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/france-airport/">France Airports</a></li>\n
+      <li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a title="Germany Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/germany-airport/">Germany Airports</a></li>\n
+      <li id="menu-item-2978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2978"><a title="Greece Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/greece-airport/">Greece Airports</a></li>\n
+      <li id="menu-item-1465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1465"><a title="Hong Kong Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/hong-kong-airport/">Hong Kong Airports</a></li>\n
+      <li id="menu-item-2815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2815"><a title="Indonesia Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/indonesia-airport/">Indonesia Airports</a></li>\n
+      <li id="menu-item-2985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2985"><a title="India Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/india-airport/">India Airports</a></li>\n
+      <li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a title="Ireland Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/ireland-airport/">Ireland Airports</a></li>\n
+      <li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a title="Italy Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/italy-airport/">Italy Airports</a></li>\n
+      <li id="menu-item-1466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1466"><a title="Japan Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/japan-airport/">Japan Airports</a></li>\n
+      <li id="menu-item-2898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2898"><a title="Malaysia Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/malaysia-airport/">Malaysia Airports</a></li>\n
+      <li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164"><a title="Netherlands Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/netherlands-airport/">Netherlands Airports</a></li>\n
+      <li id="menu-item-3967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3967"><a title="Norway Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/norway-airport/">Norway Airports</a></li>\n
+      <li id="menu-item-2984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2984"><a title="Philippines Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/philippines-airport/">Philippines Airports</a></li>\n
+      <li id="menu-item-2982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2982"><a title="Saudi Arabia Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/saudi-arabia-airport/">Saudi Arabia Airports</a></li>\n
+      <li id="menu-item-2979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2979"><a title="Singapore Airport Live Arrivals and Departures" href="https://airport-departures-arrivals.com/singapore-airport/">Singapore Airport</a></li>\n
+      <li id="menu-item-1594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1594"><a title="South Africa Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/south-africa-airport/">South Africa Airports</a></li>\n
+      <li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a title="Sweden Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/sweden-airport/">Sweden Airports</a></li>\n
+      <li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a title="Switzerland Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/switzerland-airport/">Switzerland Airports</a></li>\n
+      <li id="menu-item-2983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2983"><a title="Taiwan Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/taiwan-airport/">Taiwan Airports</a></li>\n
+      <li id="menu-item-2814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2814"><a title="Turkey Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/turkey-airport/">Turkey Airports</a></li>\n
+      <li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a title="UK Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/uk-airport/">UK Airports</a></li>\n
+      <li id="menu-item-1234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1234"><a title="United Arab Emirates Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/united-arab-emirates-airport/">United Arab Emirates Airports</a></li>\n
+      <li id="menu-item-683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-683"><a title="United States Airports Live Arrivals and Departures" href="https://airport-departures-arrivals.com/usa-airport/">United States Airports</a></li>\n
+      <li id="menu-item-3088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3088"><a title="The World’s Top 50 Airports" href="https://airport-departures-arrivals.com/list-of-top-50-airports-in-the-world/">The World’s Top 50 Airports</a></li>\n
+      <li id="menu-item-3099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3099"><a title="Cookies" href="https://airport-departures-arrivals.com/cookies/">Cookies</a></li>\n
+      <li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a title="Sitemap" href="https://airport-departures-arrivals.com/sitemap/">Sitemap</a></li>\n
+      <li id="menu-item-2620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2620"><a title="Cheap Flight Tickets" href="https://airport-departures-arrivals.com/cheap-flights-find-cheap-tickets-flights-airfare/">Cheap Flight Tickets</a></li>\n
+      </ul></div></div></div>\n
+      </div>\n
+      ﻿<table border="0" cellpadding="0" cellspacing="0" width="660" align="left"><tr><td width="70" align="center"/>\n
+      <td width="110" align="center">\n
+      <script src="https://apis.google.com/js/platform.js" async="" defer="defer"><![CDATA[\r\n
+       {lang: 'en'}\r\n
+      ]]></script><div class="g-plusone" data-size="medium"/>\n
+      </td>\n
+      <td width="110" align="center">\n
+      <div id="fb-root"/>\n
+      <script><![CDATA[(function(d, s, id) {\r\n
+        var js, fjs = d.getElementsByTagName(s)[0];\r\n
+        if (d.getElementById(id)) return;\r\n
+        js = d.createElement(s); js.id = id;\r\n
+        js.src = "//connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v2.8&appId=150660208609666";\r\n
+        fjs.parentNode.insertBefore(js, fjs);\r\n
+      }(document, 'script', 'facebook-jssdk'));]]></script><div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"/>\n
+      </td>\n
+      <td width="150" align="center">\n
+      <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>\n
+      <script><![CDATA[!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');]]></script></td>\n
+      </tr><tr><td>\n
+      <div style="padding:10px"/>\n
+      </td>\n
+      </tr></table><div style="padding:5px"/>\n
+      <div id="footer">\n
+      <table border="0" cellpadding="4" cellspacing="4" width="1000"><tr><td width="100" valign="middle"><img height="14" src="https://airport-departures-arrivals.com/spain.png"/> <a href="https://es.airport-departures-arrivals.com/"><b>Es</b></a></td>\n
+      <td width="100" valign="middle"><img height="14" src="https://airport-departures-arrivals.com/france.png"/> <a href="https://fr.airport-departures-arrivals.com/"><b>Fr</b></a></td>\n
+      <td width="100" valign="middle"><img height="14" src="https://airport-departures-arrivals.com/ru.png"/> <a href="https://ru.airport-departures-arrivals.com/"><b>Ru</b></a></td>\n
+      <td width="700" align="right"><div id="banners">\n
+      \n
+      <script type="text/javascript"><![CDATA[<!--\r\n
+      my_id = 144331;\r\n
+      my_width = 88;\r\n
+      my_height = 31;\r\n
+      my_alt = "MyCounter - &#1089;&#1095;&#1105;&#1090;&#1095;&#1080;&#1082; &#1080; &#1089;&#1090;&#1072;&#1090;&#1080;&#1089;&#1090;&#1080;&#1082;&#1072;";\r\n
+      //-->]]></script><script type="text/javascript" src="https://airport-departures-arrivals.com/counter2.0.js"><![CDATA[\r\n
+      ]]></script><noscript>&#13;\n
+      <a target="_blank" href="http://mycounter.ua/"><img src="http://get.mycounter.ua/counter.php?id=144331" title="MyCounter - счётчик и статистика" alt="MyCounter - счётчик и статистика" width="88" height="31" border="0"/></a></noscript>\n
+      \n
+      </div>\n
+      </td>\n
+      </tr></table></div>\n
+      <link rel="stylesheet" type="text/css" href="//airport-departures-arrivals.com/cookieconsent.min.css"/><script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"/><script><![CDATA[\r\n
+      window.addEventListener("load", function(){\r\n
+      window.cookieconsent.initialise({\r\n
+        "palette": {\r\n
+          "popup": {\r\n
+            "background": "#3a70b6",\r\n
+            "text": "#ffffff"\r\n
+          },\r\n
+          "button": {\r\n
+            "background": "#ffffff",\r\n
+            "text": "#3a70b6"\r\n
+          }\r\n
+        },\r\n
+        "position": "top",\r\n
+        "static": true,\r\n
+        "content": {\r\n
+          "message": "This website uses cookies to ensure you get the best experience on our website.",\r\n
+          "dismiss": "Ok",\r\n
+          "link": "Learn more",\r\n
+          "href": "https://airport-departures-arrivals.com/cookies/"\r\n
+        }\r\n
+      })});\r\n
+      ]]></script></div></div></body>\n
+      </html>\n
+      """
+  }
+  -nodes: []
+  -isHtml: true
+}

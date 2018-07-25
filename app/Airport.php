@@ -14,4 +14,6 @@ class Airport extends Model
     	'lat',
     	'long'
     ];
+
+
 }

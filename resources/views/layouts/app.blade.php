@@ -49,7 +49,7 @@
                         @else
 
                             <li class='nav-item'>
-                                <a class="nav-link" href="/airports/list">List</a>
+                                <a class="nav-link" href="/airports">List</a>
                             </li>
 
                             <li class='nav-item'>

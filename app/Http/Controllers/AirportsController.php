@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Airport;
+use App\Flight;
 class AirportsController extends Controller
 {
     /**
@@ -13,8 +14,18 @@ class AirportsController extends Controller
      */
     public function index()
     {
-        //
+        if(request()->ajax())
+        {
+            $airports = Airport::all();
+            return response()->json($airports);
+        }
+
+        return view('airports.list');
+
     }
+
+   
+    
 
     /**
      * Show the form for creating a new resource.
@@ -45,8 +56,10 @@ class AirportsController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function show($id)
-    {
-        //
+    {   
+        $airport = Airport::find($id);
+        $flights = Flight::where('airportId',$id)->get();
+        return view('airports.show',compact('flights','airport'));
     }
 
     /**

@@ -25,7 +25,6 @@ Route::get('/test', function () {
     ]);
     return response()-> json($Airport);
 });
-
 Route::resource('airports','AirportsController');
 
 Route::get('/', function () {
